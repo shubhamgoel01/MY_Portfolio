@@ -1,0 +1,7 @@
+Django
+django-crispy-forms
+Pillow
+python-dateutil
+requests
+sqlparse
+
